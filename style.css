@@ -7,10 +7,11 @@ body {
 	padding: 50px;
 	margin: auto;
 	margin-top: 50px;
+	margin-bottom: 50px;
 	color: #414042;
 	box-shadow: 1px 1px 7px rgba(128,128,128,0.31);
 	width: 80%;
-	max-width: 800px;
+	max-width: 600px;
 }
 
 #main-heading {
@@ -24,10 +25,19 @@ body {
 }
 
 .heading {
-	font-size: 14px;
+	font-size: 18px;
 	font-weight: bold;
 }
 
 .header-image {
-	height: 125px;
+	max-height: 125px;
+}
+
+.schedule {
+	font-size: 14px;
+}
+
+.name {
+	font-weight: bolder;
+	color: #0dd8da;
 }
