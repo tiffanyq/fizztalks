@@ -20,10 +20,14 @@ body {
 
 .description {
 	font-size: 14px;
-	
+
 }
 
 .heading {
 	font-size: 14px;
 	font-weight: bold;
+}
+
+.header-image {
+	height: 125px;
 }
