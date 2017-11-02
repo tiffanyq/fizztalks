@@ -7,11 +7,20 @@ body {
 	padding: 50 10px;
 	margin: auto;
 	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 	color: #414042;
 	box-shadow: 1px 1px 7px rgba(128,128,128,0.31);
 	width: 80%;
 	max-width: 600px;
+}
+
+#footer {
+	font-size: 9px;
+	margin: auto;
+	text-align: center;
+	color: #414042;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
 }
 
 #main-heading {
