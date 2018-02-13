@@ -46,7 +46,11 @@ body {
 	font-size: 14px;
 }
 
+.divider {
+	color: #aaaaaa;
+}
+
 .name {
 	font-weight: bolder;
-	color: #0dd8da;
+	color: #4972b8;
 }
